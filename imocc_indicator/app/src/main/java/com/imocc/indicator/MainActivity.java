@@ -19,11 +19,11 @@ public class MainActivity extends AppCompatActivity {
     private Context context = this;
 
     private final String[] items = {
-            "固定个数Indicator实现"
+            "固定个数Indicator实现", "xml中设置Tab的Indicator实现", "动态设置Tab的Indicator实现"
 
     };
     private final Class<?>[] classes = {
-            FixedItemActivity.class
+            FixedItemActivity.class, UnFixedItemActivity.class,DynamicItemActivity.class
     };
     private ArrayAdapter<String> mAdapter;
 

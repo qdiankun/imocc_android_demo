@@ -1,0 +1,7 @@
+http://www.imooc.com/learn/615
+
+1.ViewPagerIndicator 原理掌握
+2.组合方式去实现自定义控件
+3.在自定义控件中选择合适的方法进行合适的操作，onSizeChange确定宽度，onFinishInflater 加载XMl布局完成后获得子View的个数
+4.Canvas Translate Path
+5.自定义控件使用了某个接口，那么一定要额外提供一个供用户使用。
